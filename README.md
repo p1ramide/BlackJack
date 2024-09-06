@@ -3,7 +3,7 @@
 
 - ℹ️ Info: **Come già citato, il progetto è completamente open-source, il codice può essere restribuito ed utilizzato, anche se in caso di pubblicazione dell'applicativo i crediti verrebbero ben accettati.**
 
-- ⚠️ Attenzione: **Per compilare l'applicativo bisognerà utilizzare questo comando:**
+- ⚠️ Attenzione: **Per compilare l'applicativo bisognerà utilizzare questo comando: <br>**
 **g++ gui.cpp caricaSaldo.cpp utility.cpp gioco.cpp -o BlackJack**
   
 <p align="left">
